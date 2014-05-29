@@ -1,5 +1,8 @@
 #!/usr/bin/perl
 ##########################################################################
+#Mozilla Public License, version 2.0
+#Author - dmoore@mozilla.com (4/10/2014)
+#
 use strict;
 use warnings;
 
